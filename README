@@ -1,0 +1,15 @@
+GET ALL USERS
+http://localhost:3000/USERS
+
+GET SINGLE USERS
+http://localhost:3000/users/1
+
+GET ALL USERS OF A COMPANY
+http://localhost:3000/compaines/1/users
+
+FILTER COMPANIES BY NAME
+http://localhost:3000/companies?name=Miscrosoft
+http://localhost:3000/companies?name=Miscrosoft&name=Apple
+
+PAGINATION & LIMIT
+
